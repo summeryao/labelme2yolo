@@ -1,0 +1,7 @@
+train: ./YOLODataset/train
+
+val: ./YOLODataset/val
+
+nc: 3
+
+names: ["date","fig","hazelnut"]
